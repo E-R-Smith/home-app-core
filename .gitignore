@@ -29,3 +29,11 @@ game28.dta
 
 # Log files
 warnings.log
+
+.venv/
+__pycache__/
+.vscode/
+.idea/
+*.pyc
+.env
+*.db
